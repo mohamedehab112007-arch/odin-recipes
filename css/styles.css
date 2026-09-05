@@ -2,6 +2,21 @@
     text-decoration: underline;
     text-align: center;
 }
+
 .food_image{
-display: block;
+ display: block;
+}
+
+.back_image
+{
+  background-color: yellowgreen;
+  box-sizing: border-box;
+}
+
+.front_image
+{
+    background-color: aliceblue;
+    box-sizing: border-box;  
+    width: 600px;
+    margin: auto;
 }
