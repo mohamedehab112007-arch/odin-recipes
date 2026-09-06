@@ -61,3 +61,8 @@
     width: 530px;
     margin: 8px ;
 }
+#mulu_back_color
+{
+    box-sizing: border-box;
+    background-color: greenyellow;
+}
