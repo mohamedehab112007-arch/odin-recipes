@@ -3,6 +3,16 @@
     text-align: center;
 }
 
+.border
+{
+ box-sizing: border-box;
+ border-style: dashed;
+ width: 168px;
+ padding: auto;
+ padding-left:8px ;
+ padding-right: 8px;
+ margin: 10px;
+}
 .food_image{
  display: block;
 }
