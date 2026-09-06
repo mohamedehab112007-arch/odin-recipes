@@ -74,3 +74,16 @@
    padding: 50px;
    margin: auto;
 }
+#hawa_back_color
+{
+    box-sizing: border-box;
+    background-color: brown;
+}
+#hawa_front_color
+{
+     box-sizing: border-box;
+    background-color: antiquewhite;
+    width: 630px;
+   padding: 50px;
+   margin: auto; 
+}
