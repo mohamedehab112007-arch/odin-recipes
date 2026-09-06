@@ -30,3 +30,17 @@
     width: 600px;
     margin: auto;
 }
+.koshary_back_color
+{
+    background-color: #db0d1b;
+    box-sizing: border-box;
+}
+
+.koshary_front_color
+{
+  background-color: antiquewhite;
+  box-sizing: border-box;
+   width: 630px;
+   padding: 50px;
+   margin: auto;
+}
