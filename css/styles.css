@@ -44,3 +44,9 @@
    padding: 50px;
    margin: auto;
 }
+.food_descriptions
+{
+    box-sizing: border-box;
+    border-style: groove;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
