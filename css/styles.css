@@ -54,7 +54,7 @@
 {
     text-decoration: underline;
 }
-.koshary_steps
+.food_steps
 {
     box-sizing: border-box;
     border-style: dotted;
@@ -65,4 +65,12 @@
 {
     box-sizing: border-box;
     background-color: greenyellow;
+}
+#mulu_front_color
+{
+    box-sizing: border-box;
+    background-color: antiquewhite;
+    width: 630px;
+   padding: 50px;
+   margin: auto;
 }
