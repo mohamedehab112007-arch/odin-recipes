@@ -19,7 +19,7 @@
 
 .back_image
 {
-  background-color: yellowgreen;
+  background-color: #ebeb34;
   box-sizing: border-box;
 }
 
@@ -49,4 +49,15 @@
     box-sizing: border-box;
     border-style: groove;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.subtitle
+{
+    text-decoration: underline;
+}
+.koshary_steps
+{
+    box-sizing: border-box;
+    border-style: dotted;
+    width: 530px;
+    margin: 8px ;
 }
